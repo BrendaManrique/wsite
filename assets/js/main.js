@@ -7,6 +7,7 @@
       $('body').delay(450).css({
         'overflow': 'visible'
       });
+     
     });
 
 
@@ -249,6 +250,7 @@
         }
   // 
 
+  
 //Brand Active
   $('.brand-active').slick({
     dots: false,
